@@ -13,9 +13,5 @@ To install the project, follow these steps:
    
 ## Usage
 
-To use the project, follow these steps:
-
-1. Start the development server: `npm start`
-
-2. Open your browser and navigate to `http://localhost:3000/`.
+To use the project, follow these steps in the Client README.
 
