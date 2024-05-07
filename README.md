@@ -9,6 +9,7 @@ To install the project, follow these steps:
 1. Clone the repository:  `git clone https://github.com/username/todo-list-dapp.git`
 2. Navigate to the repository directory: `cd todo-list-dapp`
 3. Install the required packages: `npm install`
+4. Navigate to the repository directory: `cd todo-list-dapp/client`
    
 ## Usage
 
